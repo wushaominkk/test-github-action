@@ -24,5 +24,5 @@ jobs:
     - name: start work
       run: node index.js
     env:
-      XIANNIU_USERNAME: ${{ secrets.XIANNIU_USERNAME }}
-      XIANNIU_PASSWORD: ${{ secrets.XIANNIU_PASSWORD }}
+      XIANNIU_USERNAME: wushaominkk
+      XIANNIU_PASSWORD: wu081105
